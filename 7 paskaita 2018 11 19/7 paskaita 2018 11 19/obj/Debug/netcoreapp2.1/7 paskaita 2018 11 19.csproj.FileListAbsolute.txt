@@ -1,0 +1,11 @@
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\bin\Debug\netcoreapp2.1\7 paskaita 2018 11 19.deps.json
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\bin\Debug\netcoreapp2.1\7 paskaita 2018 11 19.runtimeconfig.json
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\bin\Debug\netcoreapp2.1\7 paskaita 2018 11 19.runtimeconfig.dev.json
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\bin\Debug\netcoreapp2.1\7 paskaita 2018 11 19.dll
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\bin\Debug\netcoreapp2.1\7 paskaita 2018 11 19.pdb
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\obj\Debug\netcoreapp2.1\7 paskaita 2018 11 19.csprojAssemblyReference.cache
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\obj\Debug\netcoreapp2.1\7 paskaita 2018 11 19.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\obj\Debug\netcoreapp2.1\7 paskaita 2018 11 19.AssemblyInfoInputs.cache
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\obj\Debug\netcoreapp2.1\7 paskaita 2018 11 19.AssemblyInfo.cs
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\obj\Debug\netcoreapp2.1\7 paskaita 2018 11 19.dll
+C:\Users\Andrius\Documents\GitHub\7_paskaita_2018_11_19\7 paskaita 2018 11 19\7 paskaita 2018 11 19\obj\Debug\netcoreapp2.1\7 paskaita 2018 11 19.pdb
